@@ -1,0 +1,45 @@
+﻿  Исходный код.cpp
+D:\Backup\Projects\skyscrapers3\skyscrapers3\block.h(17,21): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Backup\Projects\skyscrapers3\skyscrapers3\block.h(26,21): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Backup\Projects\skyscrapers3\skyscrapers3\block.h(27,22): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Backup\Projects\skyscrapers3\skyscrapers3\block.h(35,21): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Backup\Projects\skyscrapers3\skyscrapers3\block.h(36,22): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Backup\Projects\skyscrapers3\skyscrapers3\block.h(43,21): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Backup\Projects\skyscrapers3\skyscrapers3\block.h(64,21): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Backup\Projects\skyscrapers3\skyscrapers3\block.h(73,21): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Backup\Projects\skyscrapers3\skyscrapers3\block.h(107,21): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Backup\Projects\skyscrapers3\skyscrapers3\block.h(111,21): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Backup\Projects\skyscrapers3\skyscrapers3\block.h(115,21): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Backup\Projects\skyscrapers3\skyscrapers3\block.h(120,23): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Backup\Projects\skyscrapers3\skyscrapers3\table.h(50,21): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Backup\Projects\skyscrapers3\skyscrapers3\table.h(152,22): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Backup\Projects\skyscrapers3\skyscrapers3\table.h(158,22): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Backup\Projects\skyscrapers3\skyscrapers3\table.h(166,21): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Backup\Projects\skyscrapers3\skyscrapers3\table.h(276,23): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Backup\Projects\skyscrapers3\skyscrapers3\table.h(285,23): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Backup\Projects\skyscrapers3\skyscrapers3\table.h(308,21): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Backup\Projects\skyscrapers3\skyscrapers3\table.h(423,21): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Backup\Projects\skyscrapers3\skyscrapers3\table.h(429,22): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Backup\Projects\skyscrapers3\skyscrapers3\table.h(437,22): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Backup\Projects\skyscrapers3\skyscrapers3\table.h(609,21): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Backup\Projects\skyscrapers3\skyscrapers3\table.h(704,24): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Backup\Projects\skyscrapers3\skyscrapers3\table.h(707,24): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Backup\Projects\skyscrapers3\skyscrapers3\table.h(717,21): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Backup\Projects\skyscrapers3\skyscrapers3\table.h(771,24): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Backup\Projects\skyscrapers3\skyscrapers3\table.h(785,24): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Backup\Projects\skyscrapers3\skyscrapers3\table.h(860,21): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Backup\Projects\skyscrapers3\skyscrapers3\table.h(886,21): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Backup\Projects\skyscrapers3\skyscrapers3\table.h(904,24): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Backup\Projects\skyscrapers3\skyscrapers3\table.h(917,21): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Backup\Projects\skyscrapers3\skyscrapers3\table.h(925,23): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Backup\Projects\skyscrapers3\skyscrapers3\table.h(928,24): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Backup\Projects\skyscrapers3\skyscrapers3\table.h(948,21): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Backup\Projects\skyscrapers3\skyscrapers3\table.h(989,25): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Backup\Projects\skyscrapers3\skyscrapers3\table.h(994,25): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Backup\Projects\skyscrapers3\skyscrapers3\table.h(1014,25): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Backup\Projects\skyscrapers3\skyscrapers3\table.h(1023,25): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Backup\Projects\skyscrapers3\skyscrapers3\table.h(1023,25): warning C4018: D:\Backup\Projects\skyscrapers3\skyscrapers3\choice.h(214) : warning C4715: choice_data: значение возвращается не при всех путях выполнения
+D:\Backup\Projects\skyscrapers3\skyscrapers3\table.h(1023,25): warning C4018: D:\Backup\Projects\skyscrapers3\skyscrapers3\choice.h(99) : warning C4715: examples: значение возвращается не при всех путях выполнения
+D:\Backup\Projects\skyscrapers3\skyscrapers3\table.h(1023,25): warning C4018: D:\Backup\Projects\skyscrapers3\skyscrapers3\table.h(210) : warning C4715: table::calc_real_sum: значение возвращается не при всех путях выполнения
+D:\Backup\Projects\skyscrapers3\skyscrapers3\table.h(1023,25): warning C4018: D:\Backup\Projects\skyscrapers3\skyscrapers3\block.h(76) : warning C4715: block::calc_empty_places_until_noempty: значение возвращается не при всех путях выполнения
+  skyscrapers3.vcxproj -> D:\Backup\Projects\skyscrapers3\Debug\skyscrapers3.exe
